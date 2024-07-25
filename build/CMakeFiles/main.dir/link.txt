@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/add/add.cpp.o CMakeFiles/main.dir/mul/mul.cpp.o -o main  -Wl,-rpath,/root/vscode-c/FirstProject/build/add:/root/vscode-c/FirstProject/build/mul add/libAddLib.so mul/libMulLib.so 

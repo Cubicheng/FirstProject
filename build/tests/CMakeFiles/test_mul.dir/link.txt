@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_mul.dir/test_mul.cpp.o -o test_mul  -Wl,-rpath,/root/vscode-c/FirstProject/build/mul ../mul/libMulLib.so ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 
